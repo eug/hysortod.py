@@ -2,7 +2,7 @@
 <p align="center">
     <img width="150" src="hysortod-logo.svg"/>
 </p>
-Outlier Detection with Sorted Hypercubes. Java version is available in [hysortod.java](https://github.com/eug/hysortod.java).
+Outlier Detection with Sorted Hypercubes. Java version is available in <a href="https://github.com/eug/hysortod.java">hysortod.java</a>.
 
 ### Install
 
@@ -14,7 +14,7 @@ pip install hysortod
 
 ```python
 import pandas as pd
-from  hysortod import HySortOD
+from hysortod import HySortOD
 
 df = pd.read_csv("datasets/breastw.csv")
 X = df.drop(columns='class')
