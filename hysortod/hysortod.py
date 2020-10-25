@@ -222,7 +222,7 @@ class HySortOD(BaseEstimator, SupervisedIntegerMixin,
     .. [1] Cabral, E., Cordeiro, R. (2020, October).
        Fast and Scalable Outlier Detection with Sorted Hypercubes.
        In International Conference on Information and Knowledge Management
-       (pp. XXX-XXX). ACM.
+       (pp. 95–104). ACM.
     """
     def __init__(self, num_bins=5, strategy_name='tree', min_split=100, n_jobs=1, verbose=0):
         self.num_bins = num_bins
