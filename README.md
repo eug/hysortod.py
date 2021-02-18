@@ -26,4 +26,4 @@ print(hysortod.score(X, y))
 ```
 
 ### Reference
-Eugenio F. Cabral and Robson L. F. Cordeiro. 2020. Fast and Scalable Outlier Detection with Sorted Hypercubes. In Proceedings of the 29th ACM International Conference on Information and Knowledge Management (CIKM'20), October 19–23, 2020. Virtual Event, Ireland. ACM, New York, NY, USA, 10 pages.
+[Eugenio F. Cabral and Robson L. F. Cordeiro. 2020. Fast and Scalable Outlier Detection with Sorted Hypercubes. In Proceedings of the 29th ACM International Conference on Information and Knowledge Management (CIKM'20), October 19–23, 2020. Virtual Event, Ireland. ACM, New York, NY, USA, 10 pages.](https://dl.acm.org/doi/10.1145/3340531.3412033)
