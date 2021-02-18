@@ -1,7 +1,10 @@
 # HySortOD
+[![Downloads](https://pepy.tech/badge/hysortod)](https://pepy.tech/project/hysortod)
+
 <p align="center">
     <img width="150" src="hysortod-logo.svg"/>
 </p>
+
 Outlier Detection with Sorted Hypercubes. Java version is available in <a href="https://github.com/eug/hysortod.java">hysortod.java</a>.
 
 ### Install
